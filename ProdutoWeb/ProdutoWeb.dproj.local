@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/10/21 14:15:13.139,=C:\Users\albuq\Desktop\Projetos Delphi 10\Produtos WEB\ProdutoWeb\Unit1.pas</Transaction>
+    <Transaction>2019/10/21 14:15:19.292,=C:\Users\albuq\Desktop\Projetos Delphi 10\Produtos WEB\ProdutoWeb\ServerController.pas</Transaction>
+    <Transaction>2019/10/21 14:15:19.387,=C:\Users\albuq\Desktop\Projetos Delphi 10\Produtos WEB\ProdutoWeb\UserSessionUnit.pas</Transaction>
+    <Transaction>2019/10/21 14:16:10.171,C:\Users\albuq\Desktop\Projetos Delphi 10\Produtos WEB\ProdutoWeb\Produtos.pas=C:\Users\albuq\Desktop\Projetos Delphi 10\Produtos WEB\ProdutoWeb\Unit1.pas</Transaction>
+    <Transaction>2019/10/21 14:16:10.171,C:\Users\albuq\Desktop\Projetos Delphi 10\Produtos WEB\ProdutoWeb\Produtos.dfm=C:\Users\albuq\Desktop\Projetos Delphi 10\Produtos WEB\ProdutoWeb\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
